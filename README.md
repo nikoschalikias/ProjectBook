@@ -15,7 +15,7 @@ Integration of multiple projects README.md to a single document
 
 ----
 
-## Using curl
+## Using curl to get a single file from github
 
 This worked for a [public repository](https://github.com/nikoschalikias/STM32F103C6_CAN2) :heavy_check_mark: 
 
