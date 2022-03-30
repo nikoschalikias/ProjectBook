@@ -11,12 +11,7 @@ Integration of multiple projects README.md to a single document
 > *  git tags are created locally and then pushed to github remote repo  
 > *  A git Release can be created from gitHub web interface or from the locally installed gh-cli
 
-<p align="center">
-<img
-src="img/01.PNG"
-width = 600
-/>
-</p>
+
 
 ----
 
@@ -29,6 +24,15 @@ curl -o eee.md  https://raw.githubusercontent.com/nikoschalikias/STM32F103C6_CAN
 ```
 
 curl -o eee.md  https://raw.githubusercontent.com/nikoschalikias/STM32F103C6_CAN2/master/README.MD
+
+
+<p align="center">
+<img
+src="img/01.PNG"
+width = 900
+/>
+</p>
+
 
 ## Links
 
