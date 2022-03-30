@@ -55,13 +55,15 @@ width = 900
 This example gets a readme.md and renames it with the repository name.  
 Makes exactly what needed for the ProjectBook concept, but only works for public repos.
 
-- [ ] Research if cURL can work with private github repos
 
 ```
 5.cmd
 curl -o STM32F103C6_CAN2.md  https://raw.githubusercontent.com/nikoschalikias/STM32F103C6_CAN2/master/README.MD
 ```
 
+### cURL tasks
+
+- [ ] Research if cURL can work with private github repos
 
 ## Links
 
