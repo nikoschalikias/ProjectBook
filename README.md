@@ -1,6 +1,11 @@
-[![](https://img.shields.io/badge/nikoschalikias-green.svg?logo=telegram)](https://github.com/nikoschalikias)
+[![](https://img.shields.io/badge/organization-nikoschalikias-blue.svg)](https://github.com/nikoschalikias) 
+[![](https://img.shields.io/badge/remote-ProjectBook-green.svg)](https://github.com/nikoschalikias/ProjectBook) 
+[![](https://img.shields.io/badge/local-F:\ProjectBook-orange.svg)](https://github.com/iotmodular) 
 
-# [ProjectBook](https://github.com/nikoschalikias/ProjectBook) 
+
+
+# ProjectBook
+
 
 Integration of multiple projects README.md to a single document
 
