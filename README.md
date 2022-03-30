@@ -64,6 +64,14 @@ curl -o STM32F103C6_CAN2.md  https://raw.githubusercontent.com/nikoschalikias/ST
 ### cURL tasks
 
 - [ ] Research if cURL can work with private github repos
+- [ ] Review cURL documentation
+- [ ] Review cURL github examples / videos
+- [ ] Review how to call cURL from Python
+
+#### cURL links
+* [Python Curl Example](https://linuxhint.com/python-curl-example/)
+* [PycURL -- A Python Interface To The cURL library](https://github.com/pycurl/pycurl)
+
 
 ## Links
 
