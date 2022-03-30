@@ -17,14 +17,11 @@ Integration of multiple projects README.md to a single document
 
 ## Using curl
 
-This worked for a public repository
+This worked for a [public repository](https://github.com/nikoschalikias/STM32F103C6_CAN2) :heavy_check_mark: 
 
 ```
 curl -o eee.md  https://raw.githubusercontent.com/nikoschalikias/STM32F103C6_CAN2/master/README.MD
 ```
-
-curl -o eee.md  https://raw.githubusercontent.com/nikoschalikias/STM32F103C6_CAN2/master/README.MD
-
 
 <p align="center">
 <img
