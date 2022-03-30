@@ -20,6 +20,16 @@ width = 600
 
 ----
 
+## Using curl
+
+This worked for a public repository
+
+```
+curl -o eee.md  https://raw.githubusercontent.com/nikoschalikias/STM32F103C6_CAN2/master/README.MD
+```
+
+curl -o eee.md  https://raw.githubusercontent.com/nikoschalikias/STM32F103C6_CAN2/master/README.MD
+
 ## Links
 
 *  [gget](https://gget.io/#install)
