@@ -12,6 +12,25 @@ Integration of multiple projects README.md to a single document
 > *  A git Release can be created from gitHub web interface or from the locally installed gh-cli
 
 
+### Worked gget examples
+
+1.cmd
+```
+gget github.com/nikosLab/tubeToolHolder --type=blob hexagon-01.stl
+```
+
+2.cmd
+```
+gget github.com/nikosLab/tubeToolHolder --type=blob hexagon-02.stl
+gget github.com/nikosLab/tubeToolHolder --type=blob hexagon-03.stl
+gget github.com/nikosLab/tubeToolHolder --type=blob hexagon-05.stl
+```
+
+3.cmd
+```
+gget github.com/nikosLab/tubeToolHolder --type=blob tubeToolHolder01.stl
+rename tubeToolHolder01.stl renamed.stl
+```
 
 ----
 
