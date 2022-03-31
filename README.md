@@ -76,6 +76,8 @@ curl -o STM32F103C6_CAN2.md  https://raw.githubusercontent.com/nikoschalikias/ST
 #### cURL links
 * [Python Curl Example](https://linuxhint.com/python-curl-example/)
 * [PycURL -- A Python Interface To The cURL library](https://github.com/pycurl/pycurl)
+* [How can I download a single raw file from a private github repo using the command line?](https://stackoverflow.com/questions/18126559/how-can-i-download-a-single-raw-file-from-a-private-github-repo-using-the-comman)
+* [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 
 ## Links
