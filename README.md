@@ -78,7 +78,37 @@ curl -o STM32F103C6_CAN2.md  https://raw.githubusercontent.com/nikoschalikias/ST
 * [PycURL -- A Python Interface To The cURL library](https://github.com/pycurl/pycurl)
 * [How can I download a single raw file from a private github repo using the command line?](https://stackoverflow.com/questions/18126559/how-can-i-download-a-single-raw-file-from-a-private-github-repo-using-the-comman)
 * [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+* [How can I download a single raw file from a private github repo using the command line?](https://stackoverflow.com/questions/18126559/how-can-i-download-a-single-raw-file-from-a-private-github-repo-using-the-comman)
 
+this works, but uses a file token, which is temporary
+```
+6.cmd
+curl -o PSPRTmotherboard.md "https://raw.githubusercontent.com/PASSEPARTOUTmtu/PSPRTmotherboard/main/README.md?token=GHSAT0AAAAAABQ3LJJ3GGPKRQDO65NNK43IYSE33OA"
+```
+
+## fetch
+* https://github.com/gruntwork-io/fetch
+
+----
+
+this is not working (specifies a subdir) 
+```
+fetch --repo="https://github.com/nikoschalikias/STM32F103C6_CAN2" --source-path="src" --branch="master"  /ProjectBook/bbb
+```
+----
+
+this not working too (specifies a single file)
+```
+fetch --repo="https://github.com/nikoschalikias/STM32F103C6_CAN2" --source-path="src" --branch="master"  /ProjectBook/bbb
+```
+----
+
+and this is working, but brinks in all the repo
+```
+fetch --repo="https://github.com/nikoschalikias/STM32F103C6_CAN2"  --branch="master"  /ProjectBook/bbb
+```
+
+----
 
 ## Links
 
